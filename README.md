@@ -1,1 +1,1 @@
-# Data-Analysis-of-Netflix-Stock-Price-Using-Machine-Learning
+# Netflix-Stock-Price-Analysis-Using-Machine-Learning
